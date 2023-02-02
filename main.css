@@ -1,0 +1,22 @@
+/*Applies to all body*/
+body {
+    background-color: rgb(65, 64, 64);
+    color: white; /*font color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px; 
+    margin-right: 20px;
+
+}
+
+/*heading colors*/ 
+h1 {
+    color: rgb(255, 255, 255);
+}
+h3 {
+    color: rgb(168, 156, 173);
+}
+
+
+
+
+
